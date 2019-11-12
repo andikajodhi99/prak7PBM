@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:paddingLeft="20sp"
     android:paddingRight="20sp"
-    tools:context=".Layout3">
+    tools:context=".Layout_Tampil">
 
     <TextView
         android:id="@+id/textView3"
